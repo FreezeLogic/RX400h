@@ -1,8 +1,7 @@
 # RX400h
 RX400h
 
-| |  | 
-
+**Maintenance fluids and greases.**
 | Product Name | CPTY. or CT.  | P/N  | Description  |
 |---|---|---|---|
 | Toyota Automatic Transmission Fluid (ATF WS) | 946 ml / 1 U.S. qt | 00289-ATFWS |   |
