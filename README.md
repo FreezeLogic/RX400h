@@ -20,14 +20,14 @@ RX400h
 
 **Timing Belt Replace**
 
-| Product Name | CPTY. or CT.  | P/N  |
-|--------------|---------------|------|
-| Engine Timing Belt | 1 | 13568YZZ10 |
-| Engine Timing Belt Idler | 1 | 135030A010 |
-| Engine Timing Belt Tensioner Pulley | 1 | 1350520030 |
-| Engine Timing Belt Tensioner | 1 | 1354020040 |
-| Engine Water Pump | 1 | 1610029085 |
-| Engine Water Pump Gasket | 1 | 1627120020 |
+| Product Name | P/N  |
+|--------------|------|
+| Engine Timing Belt | 13568YZZ10 |
+| Engine Timing Belt Idler | 135030A010 |
+| Engine Timing Belt Tensioner Pulley | 1350520030 |
+| Engine Timing Belt Tensioner | 1354020040 |
+| Engine Water Pump | 1610029085 |
+| Engine Water Pump Gasket | 1627120020 |
 
 
 **Maintenance fluids and greases.**
